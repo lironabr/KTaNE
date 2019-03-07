@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Directory out
+out/
+
+# Directory .idea
+.idea/
