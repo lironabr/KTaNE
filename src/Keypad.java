@@ -32,7 +32,7 @@ public class Keypad implements Defuser {
     private final String SMILEY = "SMILEY";
     private final String PSI = "PSI";
     private final String C = "C";
-    private final String THREE = "THREE";
+    private final String THREE = "3";
     private final String WEIGHT = "WEIGHT";
     private final String AE = "AE";
     private final String N = "N";
